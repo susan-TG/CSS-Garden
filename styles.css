@@ -20,6 +20,8 @@ body {
 	background-image: url("img/green.jpg");
 	font-family: Verdana;
 	font-size: 15px;
+	margin: 100px;
+
 }
 div.summary {
 	border: 1px solid black;
@@ -35,10 +37,9 @@ div.extra {
 
 
 footer {
-	background-color: black;
-	margin: auto;
+	
 	text-align: center;
-	height: 30px;
+	height: 50px;
 }
 div.wrapper {
 	border: 1px solid black;
