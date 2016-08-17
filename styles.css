@@ -6,6 +6,7 @@ h2 {
 	font-size: 30px;
 	text-align: center;
 
+
 }
 h3 {
 	
@@ -17,13 +18,11 @@ p {
 } 
 body {
 	background-image: url("img/green.jpg");
-	
-	background-color: blue;
 	font-family: Verdana;
 	font-size: 15px;
 }
 div.summary {
-	background-color: white;
+	border: 1px solid black;
 	width: 100%;
 	text-align: center;
 	margin: auto;
@@ -36,22 +35,25 @@ div.extra {
 
 
 footer {
-	border: 2px;
 	background-color: black;
 	margin: auto;
 	text-align: center;
 	height: 30px;
 }
-div.wrapper{
+div.wrapper {
 	border: 1px solid black;
+	text-align: center;
 
 
 }
-li{
+li {
 	display:inline-block;
-
 }
-a.href {
+a {
 	color: green;
 }
+
+	
+
+
 
